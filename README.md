@@ -6,3 +6,4 @@ Samples for any layout
 
 ## Photos's gallery
 * [Example gallery of photos](https://codepen.io/george_code_pen/pen/RwovOVq?editors=1100)
+* [gallery of photos more dynamic](https://codepen.io/george_code_pen/pen/RwovXXX?editors=0100)
