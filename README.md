@@ -13,3 +13,4 @@ Samples for some layout can be used in projects
 
 ## Box Models
 * [Box Menu](https://codepen.io/george_code_pen/pen/eYgOzWR?editors=1100)
+* [Simple Letter](https://codepen.io/george_code_pen/pen/abpbzNR?editors=1100)
