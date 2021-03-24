@@ -18,3 +18,4 @@ Samples for some layout can be used in projects
 
 ## Card Models
 * [Card 1](https://codepen.io/george_code_pen/pen/ZELEWJd?editors=1100)
+* [Card deadpool challenge](https://codepen.io/george_code_pen/pen/gOgbymV)
